@@ -4,7 +4,6 @@
 .sec2{
     /* background-color: aqua; */
     background-image: url(background1.avif);
-    width:100%;
     background-attachment: fixed;
     background-size: cover;
 } 
