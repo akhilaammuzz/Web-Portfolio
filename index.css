@@ -1,14 +1,13 @@
 .sec1{
     background-color: rgb(254, 254, 254);
 } 
-@media (max-width:468px) {
 .sec2{
     /* background-color: aqua; */
     background-image: url(background1.avif);
     width:100%;
     background-attachment: fixed;
     background-size: cover;
-} }
+} 
 
 @media (max-width:468px) {
     .sec2{
